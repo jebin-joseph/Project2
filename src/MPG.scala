@@ -15,11 +15,11 @@ import ActivationFun._
 
 object MPG extends App {
     // Choose desired techniques by setting value of desired model to true
-    val tran = false
+    val tran = true
     val perceptron = true
     val NN_3L = true
     val NN_XL = true
-    val ELM = false
+    val ELM = true
 
     // Choose desired tran functions
     val logarithm = true
