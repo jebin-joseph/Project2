@@ -15,8 +15,8 @@ import ActivationFun._
 
 object KC extends App {
   // Choose desired models by setting value of desired model to true
-  val tran = false
-  val perceptron = false
+  val tran = true
+  val perceptron = true
   val NN_3L = true
   val NN_XL = true
   val ELM = true
